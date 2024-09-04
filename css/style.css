@@ -373,3 +373,11 @@ font-family: var(--main-font);
   font-family: var(--main-font);
   font-size: 13px;
 }
+@media (max-width : 577px){
+  .auto-type{
+    font-size: 30px !important;
+  }
+  .modify-head{
+    font-size: 30px !important;
+  }
+}
